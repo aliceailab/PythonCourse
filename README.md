@@ -21,13 +21,23 @@ The main course outline is here:
 
 - [10-week Python learning course](docs/python-learning-course.md)
 
+The first active week is here:
+
+- [Week 1: Python Foundations for Math](weeks/week01/README.md)
+
 ## Repo Structure
 
 ```text
 PythonCourse/
 ├── README.md
-└── docs/
-    └── python-learning-course.md
+├── docs/
+│   └── python-learning-course.md
+└── weeks/
+    └── week01/
+        ├── README.md
+        ├── exercises.md
+        └── project/
+            └── math_toolbox.py
 ```
 
 ## Recommended Tools
@@ -66,6 +76,7 @@ By working through this repo, the goal is to become confident writing Python for
 Current content:
 
 - a complete 10-week course outline in Markdown
+- a full Week 1 starter pack with exercises and a mini-project
 
 Planned future content:
 
