@@ -90,5 +90,5 @@ def main():
     print("3. Improve is_prime so it checks fewer numbers.")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": ## This line checks if the script is being run directly (as the main program) rather than imported as a module in another script. If this condition is true, it executes the code block that follows, which in this case calls the main() function to run the program.
     main()

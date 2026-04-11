@@ -24,6 +24,8 @@ The main course outline is here:
 The first active week is here:
 
 - [Week 1: Python Foundations for Math](weeks/week01/README.md)
+- [Week 2: Problem Solving and Visualization](weeks/week02/README.md)
+- [Week 3: Algebra and Number Theory with Python](weeks/week03/README.md)
 
 ## Repo Structure
 
@@ -33,11 +35,20 @@ PythonCourse/
 ├── docs/
 │   └── python-learning-course.md
 └── weeks/
-    └── week01/
+    ├── week01/
+    │   ├── README.md
+    │   ├── exercises.md
+    │   ├── notebooks/
+    │   │   └── week01-workout.ipynb
+    │   └── project/
+    │       └── math_toolbox.py
+    └── week02/
         ├── README.md
         ├── exercises.md
+        ├── notebooks/
+        │   └── week02-workout.ipynb
         └── project/
-            └── math_toolbox.py
+            └── graphing_playground.py
 ```
 
 ## Recommended Tools
@@ -77,6 +88,7 @@ Current content:
 
 - a complete 10-week course outline in Markdown
 - a full Week 1 starter pack with exercises and a mini-project
+- a full Week 2 starter pack with graphing and visualization practice
 
 Planned future content:
 
